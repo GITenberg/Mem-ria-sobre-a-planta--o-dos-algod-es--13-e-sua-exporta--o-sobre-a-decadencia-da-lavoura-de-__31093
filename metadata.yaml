@@ -1,0 +1,31 @@
+_repo: Mem-ria-sobre-a-planta--o-dos-algod-es--13-e-sua-exporta--o-sobre-a-decadencia-da-lavoura-de-__31093
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bettencourt, José de Sá
+    alias: Bettencourt, Jose de Sa
+    gutenberg_agent_id: '35000'
+    url: http://www.gutenberg.org/2009/agents/35000
+description: ''
+gutenberg_bookshelf: PT Ciência e Técnica
+gutenberg_issued: '2010-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31093'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Portugal -- Colonies -- America -- Commerce -- Early works to 1800'
+- !lcc 'F2501'
+- !lcsh 'Cassava -- Early works to 1800'
+- !lcsh 'Cotton growing -- Brazil -- Early works to 1800'
+title: "Memória sobre a plantação dos algodões\r\ne sua exportação sobre a decadencia\
+  \ da lavoura de mandiocas, no termo da villa de Camamú, Comarca dos Ilhéos, Governo\
+  \ da Bahia"
+url: http://www.gutenberg.org/ebooks/31093
